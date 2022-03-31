@@ -1,2 +1,3 @@
-## Vegan Skåne
-While the Vegan food movement grows worldwide it is becoming there is a stronger need where Vegan's can find Vegan friendly Restaurants that are reviewed and suggested or not.
+## Vegans In Skåne
+While the Vegan food movement grows worldwide  there is a greater need for Vegan's to find Vegan friendly Restaurants. Not just Vegan only Resaurants. Nowadays more and more rstaurants have the Vegan Option on their Menu. This website will provide exposure for those efforts for restaurants and help customers alike.
+# 

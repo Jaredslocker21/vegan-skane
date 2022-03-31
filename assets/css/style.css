@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&family=Zilla+Slab:wght@300&display=swap');
+
+body {
+    font-family: Playfair Display, sans-serif;
+    font-weight:  300; 
+    color:dimgray 
+}
+
+/* headind and logo */
+
+h1 {
+    font-family: Zilla Slab, sans-serif;
+    letter-spacing: 4px;
+    color:black
+}
+
+header a {
+    text-decoration: none;
+}
+ 
+#logo {
+    text-align: center;
+    text-decoration: none;
+    font-size: 300%;
+}
+
+/* hero image plantbased*/
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/plant-based-hero.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+/* Menu nav links */
+
+#menu {
+    font-size: 100%;
+    letter-spacing: 4px;
+}
+
+#menu
+#logo {
+    line-height: 75px;
+
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+}
