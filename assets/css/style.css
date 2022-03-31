@@ -36,29 +36,63 @@ header a {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url(../images/plant-based-hero.jpg) no-repeat center center;
+    background: url(../images/plant-based-hero.jpg ) no-repeat center center;
     background-size: cover;
 }
 
 /* Menu nav links */
 
 #menu {
-    font-size: 100%;
+    font-size: x-large;
     letter-spacing: 4px;
+    margin: 5px auto;
+    text-align: center;
 }
 
-#menu
+#menu li {
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+    padding: 40px;
+}
+
 #logo {
     line-height: 75px;
 
 }
-
-#menu li {
-    float: right;
-    list-style-type: none;
-    margin-right: 30px;
-}
-
 #menu a {
     text-decoration: none;
+
 }
+
+/*about section*/
+
+
+#about {
+    height: 600px;
+}
+
+.about-left {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color:;
+
+}
+
+.about-right {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    background-color:;
+}
+
+.about-right {
+        width: 33%;
+        margin: 0 auto;
+        background-color:;
+
+}
+
+
+
