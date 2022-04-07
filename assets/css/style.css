@@ -2,8 +2,8 @@
 
 body {
     font-family: Playfair Display, sans-serif;
-    font-weight:  300; 
-    color:dimgray 
+    font-weight: 300;
+    color: dimgray
 }
 
 /* headind and logo */
@@ -11,13 +11,13 @@ body {
 h1 {
     font-family: Zilla Slab, sans-serif;
     letter-spacing: 4px;
-    color:black
+    color: black
 }
 
 header a {
     text-decoration: none;
 }
- 
+
 #logo {
     text-align: center;
     text-decoration: none;
@@ -60,47 +60,43 @@ header a {
     line-height: 75px;
 
 }
+
 #menu a {
     text-decoration: none;
 
 }
 
-/*about section*/
+/*introduction  section*/
 
 #introduction {
     height: 300px;
-    }
+}
 
 .introduction-text-center {
     text-align: center
 }
 
-#about {
+/*restaurant review section*/
+#restaurant-review {
     height: 600px;
+    font-family: Zilla Slab, sans-serif;
 }
 
-.about-left {
+#restuarant-left {
     padding-top: 30px;
-    width: 33%;
+    width: 49%;
     float: left;
-    
+
 
 }
 
-.about-right {
+#restaurant-right {
     padding-top: 30px;
-    width: 33%;
+    height:600px;
+    width: 49%;
     float: right;
-    
-}
-
-.about-right {
-        padding: 30px;
-        width: 33%;
-        margin: 0 auto;
-        
+    background: url('../images/two\ monkeys\ hamburger.jpg') no-repeat center center;
+    background-position: cover;
 
 }
-
-
 
