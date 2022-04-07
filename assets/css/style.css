@@ -110,6 +110,7 @@ header a {
     height: 600px;
     width: 49%;
     float: right;
+    background-color: #cccc;
     background: url('../images/two\ monkeys\ hamburger.jpg') no-repeat center center;
     background-position: cover;
 
