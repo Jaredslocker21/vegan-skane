@@ -67,6 +67,13 @@ header a {
 
 /*about section*/
 
+#introduction {
+    height: 300px;
+    }
+
+.introduction-text-center {
+    text-align: center
+}
 
 #about {
     height: 600px;
@@ -76,7 +83,7 @@ header a {
     padding-top: 30px;
     width: 33%;
     float: left;
-    background-color:;
+    
 
 }
 
@@ -84,13 +91,14 @@ header a {
     padding-top: 30px;
     width: 33%;
     float: right;
-    background-color:;
+    
 }
 
 .about-right {
+        padding: 30px;
         width: 33%;
         margin: 0 auto;
-        background-color:;
+        
 
 }
 
