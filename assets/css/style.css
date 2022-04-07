@@ -6,7 +6,7 @@ body {
     color: dimgray
 }
 
-/* headind and logo */
+/* heading and logo */
 
 h1 {
     font-family: Zilla Slab, sans-serif;
@@ -70,11 +70,24 @@ header a {
 
 #introduction {
     height: 300px;
+
+
+
 }
 
 .introduction-text-center {
-    text-align: center
+    text-align: center;
+    font-family: Playfair Display, sans-serif;
+    font-size: 300%;
+    letter-spacing: .2rem;
 }
+
+.intro-text {
+    font-family: zilla slab, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+}
+
 
 /*restaurant review section*/
 #restaurant-review {
@@ -90,13 +103,14 @@ header a {
 
 }
 
-#restaurant-right {
+
+
+.restaurant-right-image {
     padding-top: 30px;
-    height:600px;
+    height: 600px;
     width: 49%;
     float: right;
     background: url('../images/two\ monkeys\ hamburger.jpg') no-repeat center center;
     background-position: cover;
 
 }
-
